@@ -1,5 +1,7 @@
 # *Moe Counter!*
 
+for cloudflare workers (In progress)
+
 多种风格可选的萌萌计数器
 
 <p align="center">
